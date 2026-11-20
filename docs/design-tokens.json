@@ -1,0 +1,30 @@
+{
+  "color": {
+    "canvas": "#F6F7F8",
+    "surface": "#FFFFFF",
+    "text": "#202B36",
+    "muted": "#778391",
+    "border": "#E6E9ED",
+    "accent": "#344D62",
+    "success": "#16845B",
+    "warning": "#B67A1C",
+    "danger": "#C84E4E"
+  },
+  "spacing": {
+    "1": 4,
+    "2": 8,
+    "3": 12,
+    "4": 16,
+    "6": 24,
+    "8": 32
+  },
+  "radius": {
+    "sm": 6,
+    "md": 9,
+    "lg": 12
+  },
+  "typography": {
+    "fontFamily": "DM Sans",
+    "displayFamily": "Manrope"
+  }
+}
